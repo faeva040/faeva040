@@ -1,4 +1,5 @@
-# Farzana Eva - SQA Engineer | AI Enthusiast | Programmer
+# Farzana Eva 
+## SQA Engineer | AI Enthusiast | Programmer
 
 👋 Hi there! I'm **Farzana Eva**, a passionate **Software Quality Assurance (SQA) Engineer** and **AI Enthusiast**. With a strong foundation in programming and a keen focus on quality assurance, I aim to ensure software excellence through rigorous testing and effective project management.
 
@@ -6,7 +7,7 @@
 
 - **Username:** [faeva040](https://github.com/faeva040)
 - **Profession:** Software Quality Assurance Engineer
-- **Interests:** AI, Programming, Quality Assurance
+- **Interests:** Quality Assurance, Machine Learning, Programming, 
 
 I have a deep understanding of both manual and automated testing and am proficient in a variety of testing methodologies and tools. My programming skills span across Python, PHP, and Java, and I am experienced with the Laravel framework. Currently, my primary focus is on enhancing software quality through comprehensive testing processes.
 
